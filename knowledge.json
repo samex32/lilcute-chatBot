@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "question": "What is AI?",
+      "answer": "AI is artificial intelligence."
+    },
+    {
+      "question": "What is Python?",
+      "answer": "Python is a programming language."
+    },
+    {
+      "question": "Hello",
+      "answer": "hey"
+    },
+    {
+      "question": "How are you",
+      "answer": "Im fine and you?"
+    },
+    {
+      "question": "Have you eating?",
+      "answer": "Yes I Have eaten"
+    },
+    {
+      "question": "where do you base ",
+      "answer": "i base in Lagos"
+    }
+  ]
+}
